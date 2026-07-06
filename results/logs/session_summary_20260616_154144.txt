@@ -1,0 +1,13 @@
+==================================================
+        WATER BRAND DETECTION SESSION SUMMARY      
+==================================================
+Session Start: 2026-06-16 15:41:01
+Session End:   2026-06-16 15:41:44
+Elapsed Time:  43.6 seconds
+Frames:        708
+Average FPS:   16.2
+--------------------------------------------------
+Detections:
+  Unknown      Count: 6
+  Total Session : 6
+==================================================

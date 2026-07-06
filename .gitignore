@@ -1,0 +1,24 @@
+# Python
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Datasets & Large files
+COCO Dataset.v50i.yolov8/
+
+# YOLO training/validation runs
+runs/
+
+# IDE / System files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini

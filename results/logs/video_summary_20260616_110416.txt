@@ -1,0 +1,15 @@
+==================================================
+        WATER BRAND DETECTION VIDEO SUMMARY        
+==================================================
+Processed Date: 2026-06-16 11:04:16
+Input Video:    A:\edge_ai_agent\videos\input.mp4
+Output Video:   A:\edge_ai_agent\videos\output.mp4
+Elapsed Time:  3.7 seconds
+Frames:        60
+Average FPS:   16.4
+--------------------------------------------------
+Detections:
+  Unknown      Count: 6
+  Bisleri      Count: 1
+  Total Session : 7
+==================================================

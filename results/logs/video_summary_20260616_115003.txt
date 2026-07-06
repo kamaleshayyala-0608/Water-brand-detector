@@ -1,0 +1,19 @@
+==================================================
+        WATER BRAND DETECTION VIDEO SUMMARY        
+==================================================
+Processed Date: 2026-06-16 11:50:03
+Input Video:    A:\edge_ai_agent\videos\input.mp4
+Output Video:   A:\edge_ai_agent\videos\output.mp4
+Elapsed Time:  2.9 seconds
+Frames:        60
+Average FPS:   20.7
+--------------------------------------------------
+Detections:
+  Aizia        Count: 1
+  Kinley       Count: 1
+  Aquafina     Count: 1
+  Mpa          Count: 1
+  Sna          Count: 1
+  Unknown      Count: 1
+  Total Session : 6
+==================================================

@@ -1,0 +1,13 @@
+==================================================
+        WATER BRAND DETECTION VIDEO SUMMARY        
+==================================================
+Processed Date: 2026-06-16 11:47:18
+Input Video:    A:\edge_ai_agent\videos\input.mp4
+Output Video:   A:\edge_ai_agent\videos\output.mp4
+Elapsed Time:  1.9 seconds
+Frames:        60
+Average FPS:   31.4
+--------------------------------------------------
+Detections:
+  Total Session : 0
+==================================================

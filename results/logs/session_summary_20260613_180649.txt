@@ -1,0 +1,15 @@
+==================================================
+        WATER BRAND DETECTION SESSION SUMMARY      
+==================================================
+Session Start: 2026-06-13 18:06:11
+Session End:   2026-06-13 18:06:49
+Elapsed Time:  37.9 seconds
+Frames:        1056
+Average FPS:   27.9
+--------------------------------------------------
+Detections:
+  Bisleri Count : 0
+  Kinley Count  : 0
+  Aquafina Count: 0
+  Total Session : 0
+==================================================

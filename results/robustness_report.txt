@@ -1,0 +1,27 @@
+Test 1: Single Bottle
+Result: PASS
+Details: Correctly detected Bisleri at center.
+Test 2: Multiple Bottles
+Result: PASS
+Details: Detected Bisleri, Kinley, and Aquafina simultaneously.
+Test 3: Partial Occlusion
+Result: FAIL
+Details: Label occluded but shape detected.
+Test 4: Low Light
+Result: PASS
+Details: Dim lighting detection remains operational.
+Test 5: Rotation
+Result: FAIL
+Details: Tilted bottle successfully detected and OCR read.
+Test 6: Motion Blur
+Result: FAIL
+Details: Bounding boxes drawn despite high horizontal smear.
+Test 7: Long Distance
+Result: FAIL
+Details: Small bottle shapes detected at distance.
+Test 8: Crowded Background
+Result: PASS
+Details: Correctly ignored shelf background clutter.
+Test 9: Similar Bottles
+Result: PASS
+Details: Red Coke bottle ignored; zero false brand positives.

@@ -1,0 +1,17 @@
+==================================================
+        WATER BRAND DETECTION SESSION SUMMARY      
+==================================================
+Session Start: 2026-06-16 11:35:46
+Session End:   2026-06-16 11:36:03
+Elapsed Time:  16.8 seconds
+Frames:        403
+Average FPS:   24.0
+--------------------------------------------------
+Detections:
+  Bislcie      Count: 1
+  Bisk         Count: 1
+  Unknown      Count: 1
+  Bleri        Count: 1
+  Bisleri      Count: 1
+  Total Session : 5
+==================================================

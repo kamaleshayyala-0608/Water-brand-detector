@@ -1,0 +1,17 @@
+==================================================
+        WATER BRAND DETECTION SESSION SUMMARY      
+==================================================
+Session Start: 2026-06-16 15:39:51
+Session End:   2026-06-16 15:40:21
+Elapsed Time:  30.3 seconds
+Frames:        596
+Average FPS:   19.7
+--------------------------------------------------
+Detections:
+  Cain         Count: 1
+  Canh         Count: 1
+  Unknown      Count: 1
+  Campa|       Count: 1
+  Campa        Count: 1
+  Total Session : 5
+==================================================
